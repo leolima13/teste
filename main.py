@@ -1,2 +1,3 @@
-#aaaa
-#bbbbb
+#A
+
+print("hellow")
